@@ -13,6 +13,7 @@
   "author": "rerkki",
   "license": "MIT",
   "dependencies": {
+    "mongodb": "^6.15.0",
     "mqtt": "^5.10.4"
   },
   "engines": {
