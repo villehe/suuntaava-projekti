@@ -1,1 +1,1 @@
-worker: node personcount.js
+worker: node mqtt_mongo.js
